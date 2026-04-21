@@ -1,5 +1,24 @@
 # Hi there 👋 I'm Aley
-Full Stack Developer | Cybersecurity Enthusiast
+🔐 Full Stack Developer | Seguridad | IT/OT | Cybersecurity Enthusiast
+
+![Banner o frase personalizada](https://img.shields.io/badge/Focus-Security%20by%20Design-red)
+
+### ⭐ Acerca de mí
+
+- 💻 Desarrollador Full Stack en formación con orientación a **ciberseguridad**.
+- 🏭 Apasionado por la **convergencia IT/OT** y soluciones seguras.
+- 🛠️ Mi camino empezó en **soporte técnico e infraestructura**, entendiendo hardware, redes y sistemas.
+- 🌐 Actualmente construyo aplicaciones web modernas con **React, Node.js y REST APIs**.
+- 🔐 Especializándome en **ciberseguridad, redes y arquitectura tecnológica**.
+- 📜 Preparándome para certificaciones como **CCNA**.
+- 🧠 Filosofía: **Security by Design** en entornos empresariales reales.
+
+### 📌 Actualmente estoy
+
+- 📘 Desarrollando aplicaciones **Full Stack** con JavaScript moderno.
+- 🧠 Estudiando **seguridad ofensiva y defensiva**, Linux, Windows y cloud.
+- 🔧 Integrando buenas prácticas de seguridad en cada línea de código.
+- 🚀 Creando proyectos que unen desarrollo, automatización, redes y seguridad.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)

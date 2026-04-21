@@ -1,60 +1,12 @@
 <img src="/banner_aley.png">
 
-# Hi there 👋 I'm Aley
-🔐 Full Stack Developer | Seguridad | IT/OT | Cybersecurity Enthusiast
-
-![Banner o frase personalizada](https://img.shields.io/badge/Focus-Security%20by%20Design-red)
-
-### ⭐ Acerca de mí
-
-- 💻 Desarrollador Full Stack en formación con orientación a **ciberseguridad**.
-- 🏭 Apasionado por la **convergencia IT/OT** y soluciones seguras.
-- 🛠️ Mi camino empezó en **soporte técnico e infraestructura**, entendiendo hardware, redes y sistemas.
-- 🌐 Actualmente construyo aplicaciones web modernas con **React, Node.js y REST APIs**.
-- 🔐 Especializándome en **ciberseguridad, redes y arquitectura tecnológica**.
-- 📜 Preparándome para certificaciones como **CCNA**.
-- 🧠 Filosofía: **Security by Design** en entornos empresariales reales.
-
-### 📌 Actualmente estoy
-
-- 📘 Desarrollando aplicaciones **Full Stack** con JavaScript moderno.
-- 🧠 Estudiando **seguridad ofensiva y defensiva**, Linux, Windows y cloud.
-- 🔧 Integrando buenas prácticas de seguridad en cada línea de código.
-- 🚀 Creando proyectos que unen desarrollo, automatización, redes y seguridad.
-
-### 🛠️ Lenguajes y herramientas
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](URL_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](URL_PORTAFOLIO)
-
-
 # 👋 ¡Hola! Soy Aley
 
-## 🔐 Full Stack Developer | Seguridad IT/OT | Cybersecurity Enthusiast
+## 🔐 Desarrollador Full Stack | Seguridad IT/OT | Entusiasta de Ciberseguridad
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Security%20by%20Design-red?style=for-the-badge&logo=security&logoColor=white">
-  <img src="https://img.shields.io/badge/IT%2FOT-Convergence-blue?style=for-the-badge&logo=internetofthings&logoColor=white">
+  <img src="https://img.shields.io/badge/Enfoque-Security%20by%20Design-red?style=for-the-badge&logo=security&logoColor=white">
+  <img src="https://img.shields.io/badge/IT%2FOT-Convergencia-blue?style=for-the-badge&logo=internetofthings&logoColor=white">
   <img src="https://img.shields.io/badge/Full%20Stack-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
@@ -77,7 +29,7 @@
 - 🔧 **Integrando**: DevSecOps, automatización de pruebas de seguridad, monitoreo
 - 🚀 **Creando**: Proyectos que unen desarrollo, redes, automatización y seguridad
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologías y Herramientas
 
 #### Desarrollo Full Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -96,7 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📈 GitHub Analytics
+### 📈 Estadísticas de GitHub
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AleyCabrera&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -106,6 +58,22 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleyCabrera&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
+
+### 🔥 Racha de Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleyCabrera&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+### 📊 Resumen de Actividad
+
+| Métrica                      | Valor                                                                                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🎯 **Contribuciones totales** | ![Contribuciones](https://img.shields.io/badge/dynamic/json?color=red&label=Total&query=totalContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAleyCabrera&logo=github)      |
+| 🔥 **Racha actual**           | ![Racha Actual](https://img.shields.io/badge/dynamic/json?color=orange&label=Racha%20Actual&query=currentStreak&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAleyCabrera&logo=github) |
+| 🏆 **Racha más larga**        | ![Racha Máxima](https://img.shields.io/badge/dynamic/json?color=yellow&label=Racha%20Máxima&query=longestStreak&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAleyCabrera&logo=github) |
+
+> ℹ️ *Las métricas de contribuciones pueden tardar unos segundos en cargarse*
 
 ### 🎯 Proyectos Destacados
 
@@ -127,7 +95,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:tu@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -137,7 +105,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AleyCabrera&label=Profile%20Views&color=red&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AleyCabrera&label=Visitas%20al%20Perfil&color=red&style=flat" alt="Visitas al perfil" />
 </p>
 
 <p align="center">
@@ -145,5 +113,5 @@
 </p>
 
 <!--
-**AleyCabrera/AleyCabrera** is a ✨ special ✨ repository.
+**AleyCabrera/AleyCabrera** es un repositorio ✨ especial ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->

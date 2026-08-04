@@ -1,4 +1,4 @@
-<img src="/banner_aley.png">
+<img src="/banner_aley_1.png">
 
 # 👋 ¡Hola! Soy Aley
 

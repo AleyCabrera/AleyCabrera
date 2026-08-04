@@ -2,37 +2,37 @@
 
 # 👋 ¡Hola! Soy Aley
 
-## Backend Developer in Training
+## Desarrollador Backend en Formación
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Building-Secure%20APIs-green?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Learning-Software%20Engineering-orange?style=for-the-badge&logo=readthedocs&logoColor=white">
+  <img src="https://img.shields.io/badge/Construyendo-APIs%20Seguras-green?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Aprendiendo-Ingenier%C3%ADa%20de%20Software-orange?style=for-the-badge&logo=readthedocs&logoColor=white">
 </p>
 
 ---
 
 ### ⭐ Sobre mí
 
-Software Developer passionate about building secure and scalable backend applications.
-Interested in software architecture, networking, Linux and cloud technologies.
+Desarrollador de software apasionado por construir aplicaciones backend seguras y escalables.
+Interesado en arquitectura de software, redes, Linux y tecnologías cloud.
 
-- 🛠️ Building REST APIs
-- 📚 Learning Backend Architecture
-- 🧩 Improving problem solving
-- 🐧 Studying Linux and Networking
-- 🚀 Working on personal projects
+- 🛠️ Construyendo APIs REST
+- 📚 Aprendiendo arquitectura backend
+- 🧩 Mejorando mi capacidad de resolver problemas
+- 🐧 Estudiando Linux y redes
+- 🚀 Trabajando en proyectos personales
 
 ### 📌 Actualmente
 
-- 📘 **Building**: REST APIs con Node.js y buenas prácticas de arquitectura backend
-- 🧠 **Learning**: Fundamentos de Linux, redes y bases de cloud
-- 🧱 **Studying**: Principios de ingeniería de software (POO, patrones de diseño, arquitectura)
-- 🚀 **Working on**: Proyectos personales para consolidar backend end-to-end
+- 📘 **Construyendo**: APIs REST con Node.js aplicando buenas prácticas de arquitectura backend
+- 🧠 **Aprendiendo**: Fundamentos de Linux, redes y bases de cloud
+- 🧱 **Estudiando**: Principios de ingeniería de software (POO, patrones de diseño, arquitectura)
+- 🚀 **Trabajando en**: Proyectos personales para consolidar backend de punta a punta
 
 ### 🛠️ Tecnologías
 
-**Comfortable with**
+**Con las que me siento cómodo**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,7 +43,7 @@ Interested in software architecture, networking, Linux and cloud technologies.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Learning**
+**Aprendiendo**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,27 +52,27 @@ Interested in software architecture, networking, Linux and cloud technologies.
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🎯 Featured Projects
+### 🎯 Proyectos destacados
 
 | Proyecto | Descripción |
 |---|---|
-| Backend API | Node.js + PostgreSQL |
-| Authentication System | JWT + Roles |
-| Inventory System | React + NestJS |
-| Linux Lab | Bash + Docker |
-| Cisco Labs | Networking |
+| API Backend | Node.js + PostgreSQL |
+| Sistema de autenticación | JWT + Roles |
+| Sistema de inventario | React + NestJS |
+| Laboratorio Linux | Bash + Docker |
+| Laboratorios Cisco | Redes |
 
-> 💡 *Actualizando enlaces a medida que cada proyecto queda documentado*
+> 💡 *Actualizando con enlaces a cada repositorio a medida que los vaya documentando*
 
-### 📈 Current Focus (2026–2027)
+### 📈 Enfoque actual (2026–2027)
 
-```
-Backend Development     ███████░░
-Linux                   █████░░░░
-Networking               █████░░░░
-Cloud Fundamentals      ███░░░░░░
-Software Architecture   ███░░░░░░
-```
+| Área | Progreso |
+|---|---|
+| Backend Development | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70% |
+| Linux | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50% |
+| Networking | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50% |
+| Cloud Fundamentals | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 30% |
+| Software Architecture | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 30% |
 
 ✔ Backend Development · ✔ Software Engineering · ✔ Linux · ✔ Networking · ✔ Cloud Fundamentals
 
@@ -86,21 +86,13 @@ Software Architecture   ███░░░░░░
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleyCabrera&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
-### 🔥 Racha de Contribuciones
+### 🔥 Racha de contribuciones
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleyCabrera&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-### 📊 Resumen de Actividad
-
-| Métrica                      | Valor                                                                                                                                                                                                  |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎯 **Contribuciones totales** | ![Contribuciones](https://img.shields.io/badge/dynamic/json?color=blue&label=Total&query=totalContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAleyCabrera&logo=github)      |
-| 🔥 **Racha actual**           | ![Racha Actual](https://img.shields.io/badge/dynamic/json?color=orange&label=Racha%20Actual&query=currentStreak&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAleyCabrera&logo=github) |
-| 🏆 **Racha más larga**        | ![Racha Máxima](https://img.shields.io/badge/dynamic/json?color=yellow&label=Racha%20Máxima&query=longestStreak&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAleyCabrera&logo=github) |
-
-> ℹ️ *Las métricas de contribuciones pueden tardar unos segundos en cargarse*
+> ℹ️ *Estas imágenes se generan dinámicamente desde tu perfil de GitHub — pueden tardar unos segundos en cargar, y solo se ven completas al abrir el README directamente en GitHub.com (no siempre en otros visores).*
 
 ### 📫 Conecta conmigo
 

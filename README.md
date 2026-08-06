@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Aley
 
-## Desarrollador Backend en Formación
+## Desarrollador Backend Junior
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -18,7 +18,7 @@ Desarrollador de software apasionado por construir aplicaciones backend seguras 
 Interesado en arquitectura de software, redes, Linux y tecnologías cloud.
 
 - 🛠️ Construyendo APIs REST
-- 📚 Aprendiendo arquitectura backend
+- 📚 Desarrollando arquitectura backend
 - 🧩 Mejorando mi capacidad de resolver problemas
 - 🐧 Estudiando Linux y redes
 - 🚀 Trabajando en proyectos personales
@@ -43,7 +43,7 @@ Interesado en arquitectura de software, redes, Linux y tecnologías cloud.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Aprendiendo**
+**Aprendizaje Continuo**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -72,24 +72,24 @@ Interesado en arquitectura de software, redes, Linux y tecnologías cloud.
 | Linux | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50% |
 | Networking | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50% |
 | Cloud Fundamentals | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 30% |
-| Software Architecture | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 30% |
+| Software Architecture | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 50% |
 
 ✔ Backend Development · ✔ Software Engineering · ✔ Linux · ✔ Networking · ✔ Cloud Fundamentals
 
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AleyCabrera&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=AleyCabrera&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleyCabrera&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AleyCabrera&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ### 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleyCabrera&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=AleyCabrera&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 > ℹ️ *Estas imágenes se generan dinámicamente desde tu perfil de GitHub — pueden tardar unos segundos en cargar, y solo se ven completas al abrir el README directamente en GitHub.com (no siempre en otros visores).*
